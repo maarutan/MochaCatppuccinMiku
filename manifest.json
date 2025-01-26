@@ -1,0 +1,63 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Catppuccin Mocha BB",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ],
+
+      "theme_frame": "images/miku2.png"
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["top"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgb(30, 30, 46)",
+      "toolbar_text": "rgb(205, 214, 244)",
+      "frame": "rgb(17, 17, 27)",
+      "tab_background_text": "rgb(205, 214, 244)",
+      "toolbar_field": "rgb(24, 24, 37)",
+      "toolbar_field_text": "rgb(205, 214, 244)",
+      "tab_line": "rgba(180, 190, 254, 0)",
+      "popup": "rgb(30, 30, 46)",
+      "popup_text": "rgb(205, 214, 244)",
+      "button_background_active": "rgb(69, 71, 90)",
+      "button_background_hover": "rgb(49, 50, 68)",
+      "frame_inactive": "rgb(17, 17, 27)",
+      "icons_attention": "rgb(180, 190, 254)",
+      "icons": "rgb(180, 190, 254)",
+      "ntp_background": "rgb(17, 17, 27)",
+      "ntp_text": "rgb(205, 214, 244)",
+      "popup_border": "rgba(180, 190, 254, 0)",
+      "popup_highlight_text": "rgb(205, 214, 244)",
+      "popup_highlight": "rgb(69, 71, 90)",
+      "sidebar_border": "rgba(180, 190, 254, 0)",
+      "sidebar_highlight_text": "rgb(17, 17, 27)",
+      "sidebar_highlight": "rgb(180, 190, 254)",
+      "sidebar_text": "rgb(205, 214, 244)",
+      "sidebar": "rgb(30, 30, 46)",
+      "tab_background_separator": "rgb(180, 190, 254)",
+      "tab_loading": "rgb(180, 190, 254)",
+      "tab_selected": "rgb(30, 30, 46)",
+      "tab_text": "rgb(205, 214, 244)",
+      "toolbar_bottom_separator": "rgb(30, 30, 46)",
+      "toolbar_field_border_focus": "rgba(180, 190, 254, 0)",
+      "toolbar_field_border": "rgb(30, 30, 46)",
+      "toolbar_field_focus": "rgb(24, 24, 37)",
+      "toolbar_field_highlight_text": "rgb(30, 30, 46)",
+      "toolbar_field_highlight": "rgb(180, 190, 254)",
+      "toolbar_field_separator": "rgb(180, 190, 254)",
+      "toolbar_field_text_focus": "rgb(205, 214, 244)",
+      "toolbar_top_separator": "rgba(17, 17, 27, 0)",
+      "toolbar_vertical_separator": "rgb(180, 190, 254)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{e2993b23-e4fe-4006-94f5-4096cba9955e}"
+    }
+  }
+}
